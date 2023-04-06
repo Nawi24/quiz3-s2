@@ -1,0 +1,8 @@
+POST http:localhost:3000/hye hye
+
+
+#####
+GET http:localhost:3000/bye gerak dulu
+
+#####
+GET http:localhost:3000/hello
